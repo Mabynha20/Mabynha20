@@ -24,7 +24,6 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="https://i.imgur.com/C4BmKgw.png"  />
 
 ###
 
