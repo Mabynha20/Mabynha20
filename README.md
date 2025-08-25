@@ -24,11 +24,6 @@
 
 ###
 
-<br clear="both">
-
-
-###
-
 <p align="left">🌍 Sou do Paraná, Brasil<br>🎓 Estudante de Inteligência Artificial<br>⚡ Aspirante a Analista de Dados com interesse em Automação e IA<br>🎯 Foco em Python, R, SQL, C++<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 ###
